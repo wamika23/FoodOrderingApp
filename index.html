@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="style.css" rel="stylesheet" />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>hiuhoi</h1>
+    <div class="main-container">
+      <div class="top">
+        <div>
+          <input
+            type="text"
+            onkeydown="changeHandler(event)"
+            id="input-search"
+            placeholder="restaurants"
+          />
+          <button onclick="searchClickHandler()">Search</button>
+        </div>
+        <div>
+          <label>Sort By</label>
+          <select name="sort-by" id="sort-by" onchange="sortby()">
+            <option value="default">Sort By</option>
+            <option value="eta">ETA</option>
+            <option value="name">Name</option>
+            <option value="rating">Rating</option>
+          </select>
+        </div>
+        <div>
+          <label>Filter By</label
+          ><select name="sort-by" id="filter-by" onchange="filterby(event)">
+            <option value="default">All</option>
+            <option value="biryani">Biryani</option>
+            <option value="chinese">Chinese</option>
+            <option value="burger">Burger</option>
+            <option value="ice cream">Ice Cream</option>
+          </select>
+        </div>
+        <div>
+          <button onclick="showFavourites()" id="fav">Show Favourites</button>
+        </div>
+      </div>
+      <div class="restaurants"></div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
+
+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

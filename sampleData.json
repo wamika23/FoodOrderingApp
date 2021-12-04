@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "Paradise",
+    "name": "Paradise",
+    "eta": "45min",
+    "tags": ["biryani"],
+    "rating": 4.1
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "Bawarchi",
+    "name": "Bawarchi",
+    "eta": "10min",
+    "tags": ["biryani", "chinese"],
+    "rating": 4.3
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "KFC",
+    "name": "KFC",
+    "eta": "20min",
+    "tags": ["burger"],
+    "rating": 4.5
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "Subway",
+    "name": "Subway",
+    "eta": "10min",
+    "tags": ["burger"],
+    "rating": 3.0
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "BurgerKing",
+    "name": "Burger King",
+    "eta": "10min",
+    "tags": ["burger", "biryani"],
+    "rating": 4.7
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "CreamStone",
+    "name": "Cream Stone",
+    "eta": "30min",
+    "tags": ["ice cream"],
+    "rating": 4.8
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "naturals",
+    "name": "Naturals Ice Cream",
+    "eta": "20min",
+    "tags": ["ice cream"],
+    "rating": 4.6
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "Mehfil",
+    "name": "Mehfil",
+    "eta": "45min",
+    "tags": ["biryani"],
+    "rating": 3.5
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "ITC",
+    "name": "ITC",
+    "eta": "45min",
+    "tags": ["biryani"],
+    "rating": 4.2
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "MacDonalds",
+    "name": "MacDonalds",
+    "eta": "45min",
+    "tags": ["burger", "biryani"],
+    "rating": 3.3
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "HyderabadChefs",
+    "name": "Hyderabad Chefs",
+    "eta": "45min",
+    "tags": ["biryani"],
+    "rating": 2.8
+  },
+  {
+    "image": "https://baconmockup.com/640/360",
+    "id": "ABs",
+    "name": "ABs",
+    "eta": "55min",
+    "tags": ["biryani"],
+    "rating": 4.2
+  }
+]

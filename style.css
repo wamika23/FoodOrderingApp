@@ -1,0 +1,50 @@
+.main-container {
+  width: 90%;
+  padding: 10px;
+  border: 2px solid grey;
+  margin: auto;
+}
+
+.restaurants {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.restaurant-card {
+  border: 2px solid black;
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+.selected {
+  /*color: red;*/
+  color: orange !important;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(179, 128, 34);
+}
+
+.top {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: space-around;
+}
+.top-input {
+}
+
+.fa {
+  top: 10%;
+  left: 90%;
+  position: relative;
+  color: white;
+}
+
+.fav {
+  background-color: orange;
+  border: none;
+}
